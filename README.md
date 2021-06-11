@@ -69,11 +69,11 @@ npm i / install
 
 <br>
 
-## 4. Edit Environment Variables
+## 3. Edit Environment Variables
 
 <br>
 
-## 5. Start the react server
+## 4. Start the react server
 
 <br>
 
