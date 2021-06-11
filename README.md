@@ -49,4 +49,37 @@ npm start
 
 # Start Server:
 
-## 3. npm changes: PORT, HOST, dbURI (env vars.)
+## 1. Change directory : server
+
+<br>
+
+```
+cd server
+```
+
+<br>
+
+## 2. Install dependencies
+
+<br>
+
+```
+npm i / install
+```
+
+<br>
+
+## 4. Edit Environment Variables
+
+<br>
+
+## 5. Start the react server
+
+<br>
+
+```
+npm run start
+```
+
+<br>
+<br>
